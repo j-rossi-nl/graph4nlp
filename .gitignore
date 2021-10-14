@@ -141,5 +141,3 @@ cscope.*
 # asv
 .asv
 
-# config file
-/config
